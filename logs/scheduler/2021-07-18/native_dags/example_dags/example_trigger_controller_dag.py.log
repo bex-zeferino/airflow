@@ -1,0 +1,224 @@
+[2021-07-18 15:56:18,511] {scheduler_job.py:181} INFO - Started process (PID=11740) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:56:18,511] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 15:56:18,512] {logging_mixin.py:104} INFO - [2021-07-18 15:56:18,512] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:56:18,519] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:56:18,529] {logging_mixin.py:104} INFO - [2021-07-18 15:56:18,529] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:56:18,536] {logging_mixin.py:104} INFO - [2021-07-18 15:56:18,536] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:56:18,557] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.049 seconds
+[2021-07-18 15:56:50,042] {scheduler_job.py:181} INFO - Started process (PID=11773) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:56:50,043] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 15:56:50,043] {logging_mixin.py:104} INFO - [2021-07-18 15:56:50,043] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:56:50,050] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:56:50,060] {logging_mixin.py:104} INFO - [2021-07-18 15:56:50,060] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:56:50,067] {logging_mixin.py:104} INFO - [2021-07-18 15:56:50,067] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:56:50,086] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.046 seconds
+[2021-07-18 15:57:21,816] {scheduler_job.py:181} INFO - Started process (PID=11811) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:57:21,817] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 15:57:21,817] {logging_mixin.py:104} INFO - [2021-07-18 15:57:21,817] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:57:21,824] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:57:21,837] {logging_mixin.py:104} INFO - [2021-07-18 15:57:21,837] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:57:21,845] {logging_mixin.py:104} INFO - [2021-07-18 15:57:21,845] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:57:21,859] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.045 seconds
+[2021-07-18 15:57:55,001] {scheduler_job.py:181} INFO - Started process (PID=11845) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:57:55,002] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 15:57:55,003] {logging_mixin.py:104} INFO - [2021-07-18 15:57:55,002] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:57:55,012] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:57:55,023] {logging_mixin.py:104} INFO - [2021-07-18 15:57:55,023] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:57:55,033] {logging_mixin.py:104} INFO - [2021-07-18 15:57:55,033] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:57:55,049] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.052 seconds
+[2021-07-18 15:58:27,353] {scheduler_job.py:181} INFO - Started process (PID=11880) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:58:27,355] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 15:58:27,356] {logging_mixin.py:104} INFO - [2021-07-18 15:58:27,356] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:58:27,365] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:58:27,379] {logging_mixin.py:104} INFO - [2021-07-18 15:58:27,379] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:58:27,390] {logging_mixin.py:104} INFO - [2021-07-18 15:58:27,390] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:58:27,412] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.063 seconds
+[2021-07-18 15:58:59,891] {scheduler_job.py:181} INFO - Started process (PID=11912) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:58:59,893] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 15:58:59,893] {logging_mixin.py:104} INFO - [2021-07-18 15:58:59,893] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:58:59,911] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 15:58:59,932] {logging_mixin.py:104} INFO - [2021-07-18 15:58:59,932] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:58:59,948] {logging_mixin.py:104} INFO - [2021-07-18 15:58:59,947] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:58:59,979] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.102 seconds
+[2021-07-18 16:23:30,328] {scheduler_job.py:181} INFO - Started process (PID=13590) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:23:30,330] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:23:30,330] {logging_mixin.py:104} INFO - [2021-07-18 16:23:30,330] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:23:30,340] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:23:30,352] {logging_mixin.py:104} INFO - [2021-07-18 16:23:30,351] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:23:30,360] {logging_mixin.py:104} INFO - [2021-07-18 16:23:30,360] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:23:30,376] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.054 seconds
+[2021-07-18 16:24:01,651] {scheduler_job.py:181} INFO - Started process (PID=13649) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:24:01,654] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:24:01,655] {logging_mixin.py:104} INFO - [2021-07-18 16:24:01,655] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:24:01,665] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:24:01,677] {logging_mixin.py:104} INFO - [2021-07-18 16:24:01,677] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:24:01,686] {logging_mixin.py:104} INFO - [2021-07-18 16:24:01,686] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:24:01,710] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.062 seconds
+[2021-07-18 16:24:35,727] {scheduler_job.py:181} INFO - Started process (PID=13716) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:24:35,732] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:24:35,732] {logging_mixin.py:104} INFO - [2021-07-18 16:24:35,732] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:24:35,746] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:24:35,759] {logging_mixin.py:104} INFO - [2021-07-18 16:24:35,759] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:24:35,771] {logging_mixin.py:104} INFO - [2021-07-18 16:24:35,771] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:24:35,791] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.066 seconds
+[2021-07-18 16:25:09,693] {scheduler_job.py:181} INFO - Started process (PID=13783) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:25:09,699] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:25:09,699] {logging_mixin.py:104} INFO - [2021-07-18 16:25:09,699] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:25:09,711] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:25:09,736] {logging_mixin.py:104} INFO - [2021-07-18 16:25:09,735] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:25:09,746] {logging_mixin.py:104} INFO - [2021-07-18 16:25:09,746] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:25:09,768] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.079 seconds
+[2021-07-18 16:25:41,391] {scheduler_job.py:181} INFO - Started process (PID=13855) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:25:41,392] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:25:41,393] {logging_mixin.py:104} INFO - [2021-07-18 16:25:41,393] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:25:41,406] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:25:41,420] {logging_mixin.py:104} INFO - [2021-07-18 16:25:41,420] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:25:41,430] {logging_mixin.py:104} INFO - [2021-07-18 16:25:41,429] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:25:41,452] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.063 seconds
+[2021-07-18 16:26:50,942] {scheduler_job.py:181} INFO - Started process (PID=14222) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:26:50,946] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:26:50,946] {logging_mixin.py:104} INFO - [2021-07-18 16:26:50,946] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:26:50,961] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:26:50,975] {logging_mixin.py:104} INFO - [2021-07-18 16:26:50,975] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:26:50,988] {logging_mixin.py:104} INFO - [2021-07-18 16:26:50,988] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:26:51,015] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.076 seconds
+[2021-07-18 16:27:27,172] {scheduler_job.py:181} INFO - Started process (PID=14307) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:27:27,176] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:27:27,176] {logging_mixin.py:104} INFO - [2021-07-18 16:27:27,176] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:27:27,207] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:27:27,231] {logging_mixin.py:104} INFO - [2021-07-18 16:27:27,231] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:27:27,244] {logging_mixin.py:104} INFO - [2021-07-18 16:27:27,244] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:27:27,267] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.099 seconds
+[2021-07-18 16:28:02,405] {scheduler_job.py:181} INFO - Started process (PID=14409) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:28:02,408] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:28:02,410] {logging_mixin.py:104} INFO - [2021-07-18 16:28:02,410] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:28:02,430] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:28:02,444] {logging_mixin.py:104} INFO - [2021-07-18 16:28:02,444] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:28:02,455] {logging_mixin.py:104} INFO - [2021-07-18 16:28:02,455] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:28:02,475] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.074 seconds
+[2021-07-18 16:28:36,901] {scheduler_job.py:181} INFO - Started process (PID=14497) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:28:36,904] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:28:36,905] {logging_mixin.py:104} INFO - [2021-07-18 16:28:36,904] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:28:36,925] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:28:36,941] {logging_mixin.py:104} INFO - [2021-07-18 16:28:36,941] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:28:36,953] {logging_mixin.py:104} INFO - [2021-07-18 16:28:36,953] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:28:37,000] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.101 seconds
+[2021-07-18 16:29:12,491] {scheduler_job.py:181} INFO - Started process (PID=14586) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:29:12,495] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:29:12,495] {logging_mixin.py:104} INFO - [2021-07-18 16:29:12,495] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:29:12,514] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:29:12,531] {logging_mixin.py:104} INFO - [2021-07-18 16:29:12,531] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:29:12,544] {logging_mixin.py:104} INFO - [2021-07-18 16:29:12,544] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:29:12,566] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.078 seconds
+[2021-07-18 16:30:04,926] {scheduler_job.py:181} INFO - Started process (PID=14764) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:30:04,928] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:30:04,928] {logging_mixin.py:104} INFO - [2021-07-18 16:30:04,928] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:30:04,946] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:30:04,962] {logging_mixin.py:104} INFO - [2021-07-18 16:30:04,961] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:30:04,980] {logging_mixin.py:104} INFO - [2021-07-18 16:30:04,980] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:30:05,000] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.079 seconds
+[2021-07-18 16:32:04,646] {scheduler_job.py:181} INFO - Started process (PID=15037) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:32:04,648] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:32:04,649] {logging_mixin.py:104} INFO - [2021-07-18 16:32:04,649] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:32:04,665] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:32:04,681] {logging_mixin.py:104} INFO - [2021-07-18 16:32:04,681] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:32:04,694] {logging_mixin.py:104} INFO - [2021-07-18 16:32:04,694] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:32:04,725] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.083 seconds
+[2021-07-18 16:32:38,256] {scheduler_job.py:181} INFO - Started process (PID=15122) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:32:38,257] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:32:38,257] {logging_mixin.py:104} INFO - [2021-07-18 16:32:38,257] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:32:38,264] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:32:38,276] {logging_mixin.py:104} INFO - [2021-07-18 16:32:38,276] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:32:38,284] {logging_mixin.py:104} INFO - [2021-07-18 16:32:38,284] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:32:38,301] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.054 seconds
+[2021-07-18 16:33:17,834] {scheduler_job.py:181} INFO - Started process (PID=15222) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:33:17,835] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:33:17,835] {logging_mixin.py:104} INFO - [2021-07-18 16:33:17,835] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:33:17,852] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:33:17,878] {logging_mixin.py:104} INFO - [2021-07-18 16:33:17,877] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:33:17,900] {logging_mixin.py:104} INFO - [2021-07-18 16:33:17,900] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:33:17,920] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.090 seconds
+[2021-07-18 16:33:50,573] {scheduler_job.py:181} INFO - Started process (PID=15294) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:33:50,574] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:33:50,575] {logging_mixin.py:104} INFO - [2021-07-18 16:33:50,575] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:33:50,583] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:33:50,596] {logging_mixin.py:104} INFO - [2021-07-18 16:33:50,596] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:33:50,605] {logging_mixin.py:104} INFO - [2021-07-18 16:33:50,605] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:33:50,620] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.050 seconds
+[2021-07-18 16:34:24,041] {scheduler_job.py:181} INFO - Started process (PID=15353) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:34:24,045] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:34:24,046] {logging_mixin.py:104} INFO - [2021-07-18 16:34:24,046] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:34:24,058] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:34:24,070] {logging_mixin.py:104} INFO - [2021-07-18 16:34:24,070] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:34:24,078] {logging_mixin.py:104} INFO - [2021-07-18 16:34:24,078] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:34:24,093] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.055 seconds
+[2021-07-18 16:35:02,677] {scheduler_job.py:181} INFO - Started process (PID=15419) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:35:02,680] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:35:02,680] {logging_mixin.py:104} INFO - [2021-07-18 16:35:02,680] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:35:02,687] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:35:02,697] {logging_mixin.py:104} INFO - [2021-07-18 16:35:02,697] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:35:02,705] {logging_mixin.py:104} INFO - [2021-07-18 16:35:02,705] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:35:02,725] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.051 seconds
+[2021-07-18 16:35:37,716] {scheduler_job.py:181} INFO - Started process (PID=15486) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:35:37,718] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:35:37,719] {logging_mixin.py:104} INFO - [2021-07-18 16:35:37,719] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:35:37,727] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:35:37,738] {logging_mixin.py:104} INFO - [2021-07-18 16:35:37,738] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:35:37,746] {logging_mixin.py:104} INFO - [2021-07-18 16:35:37,746] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:35:37,774] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.060 seconds
+[2021-07-18 16:36:12,339] {scheduler_job.py:181} INFO - Started process (PID=15548) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:36:12,340] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:36:12,352] {logging_mixin.py:104} INFO - [2021-07-18 16:36:12,352] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:36:12,388] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:36:12,406] {logging_mixin.py:104} INFO - [2021-07-18 16:36:12,406] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:36:12,417] {logging_mixin.py:104} INFO - [2021-07-18 16:36:12,417] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:36:12,477] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.140 seconds
+[2021-07-18 16:36:50,694] {scheduler_job.py:181} INFO - Started process (PID=15615) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:36:50,699] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:36:50,703] {logging_mixin.py:104} INFO - [2021-07-18 16:36:50,702] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:36:50,712] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:36:50,725] {logging_mixin.py:104} INFO - [2021-07-18 16:36:50,725] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:36:50,733] {logging_mixin.py:104} INFO - [2021-07-18 16:36:50,733] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:36:50,748] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.059 seconds
+[2021-07-18 16:37:24,824] {scheduler_job.py:181} INFO - Started process (PID=15678) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:37:24,826] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:37:24,827] {logging_mixin.py:104} INFO - [2021-07-18 16:37:24,827] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:37:24,835] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:37:24,847] {logging_mixin.py:104} INFO - [2021-07-18 16:37:24,847] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:37:24,857] {logging_mixin.py:104} INFO - [2021-07-18 16:37:24,857] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:37:24,874] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.052 seconds
+[2021-07-18 16:38:04,377] {scheduler_job.py:181} INFO - Started process (PID=15770) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:38:04,377] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:38:04,378] {logging_mixin.py:104} INFO - [2021-07-18 16:38:04,378] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:38:04,385] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:38:04,395] {logging_mixin.py:104} INFO - [2021-07-18 16:38:04,395] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:38:04,403] {logging_mixin.py:104} INFO - [2021-07-18 16:38:04,403] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:38:04,421] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.047 seconds
+[2021-07-18 16:38:41,776] {scheduler_job.py:181} INFO - Started process (PID=15837) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:38:41,781] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:38:41,781] {logging_mixin.py:104} INFO - [2021-07-18 16:38:41,781] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:38:41,791] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:38:41,802] {logging_mixin.py:104} INFO - [2021-07-18 16:38:41,802] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:38:41,810] {logging_mixin.py:104} INFO - [2021-07-18 16:38:41,810] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:38:41,826] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.055 seconds
+[2021-07-18 16:41:17,494] {scheduler_job.py:181} INFO - Started process (PID=16006) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:41:17,495] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:41:17,496] {logging_mixin.py:104} INFO - [2021-07-18 16:41:17,495] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:41:17,506] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:41:17,518] {logging_mixin.py:104} INFO - [2021-07-18 16:41:17,517] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:41:17,537] {logging_mixin.py:104} INFO - [2021-07-18 16:41:17,536] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:41:17,564] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.072 seconds
+[2021-07-18 16:41:50,775] {scheduler_job.py:181} INFO - Started process (PID=16091) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:41:50,776] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:41:50,777] {logging_mixin.py:104} INFO - [2021-07-18 16:41:50,777] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:41:50,784] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:41:50,798] {logging_mixin.py:104} INFO - [2021-07-18 16:41:50,798] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:41:50,810] {logging_mixin.py:104} INFO - [2021-07-18 16:41:50,810] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:41:50,831] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.058 seconds
+[2021-07-18 16:42:25,737] {scheduler_job.py:181} INFO - Started process (PID=16175) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:42:25,739] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2021-07-18 16:42:25,740] {logging_mixin.py:104} INFO - [2021-07-18 16:42:25,739] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:42:25,743] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2021-07-18 16:42:25,757] {logging_mixin.py:104} INFO - [2021-07-18 16:42:25,756] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:42:25,765] {logging_mixin.py:104} INFO - [2021-07-18 16:42:25,765] {dag.py:2306} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:42:25,785] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.052 seconds

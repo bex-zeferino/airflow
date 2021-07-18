@@ -1,0 +1,245 @@
+[2021-07-18 15:56:01,873] {scheduler_job.py:181} INFO - Started process (PID=11681) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:56:01,874] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 15:56:01,874] {logging_mixin.py:104} INFO - [2021-07-18 15:56:01,874] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:56:01,885] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:56:01,899] {logging_mixin.py:104} INFO - [2021-07-18 15:56:01,899] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:56:01,912] {logging_mixin.py:104} INFO - [2021-07-18 15:56:01,912] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:56:01,935] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2021-07-18 15:56:33,255] {scheduler_job.py:181} INFO - Started process (PID=11755) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:56:33,256] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 15:56:33,257] {logging_mixin.py:104} INFO - [2021-07-18 15:56:33,257] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:56:33,268] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:56:33,280] {logging_mixin.py:104} INFO - [2021-07-18 15:56:33,280] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:56:33,290] {logging_mixin.py:104} INFO - [2021-07-18 15:56:33,290] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:56:33,305] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.054 seconds
+[2021-07-18 15:57:05,670] {scheduler_job.py:181} INFO - Started process (PID=11789) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:57:05,671] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 15:57:05,671] {logging_mixin.py:104} INFO - [2021-07-18 15:57:05,671] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:57:05,680] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:57:05,692] {logging_mixin.py:104} INFO - [2021-07-18 15:57:05,692] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:57:05,700] {logging_mixin.py:104} INFO - [2021-07-18 15:57:05,700] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:57:05,719] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-07-18 15:57:37,258] {scheduler_job.py:181} INFO - Started process (PID=11827) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:57:37,259] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 15:57:37,259] {logging_mixin.py:104} INFO - [2021-07-18 15:57:37,259] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:57:37,267] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:57:37,278] {logging_mixin.py:104} INFO - [2021-07-18 15:57:37,278] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:57:37,286] {logging_mixin.py:104} INFO - [2021-07-18 15:57:37,286] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:57:37,302] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.046 seconds
+[2021-07-18 15:58:10,445] {scheduler_job.py:181} INFO - Started process (PID=11860) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:58:10,446] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 15:58:10,447] {logging_mixin.py:104} INFO - [2021-07-18 15:58:10,446] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:58:10,461] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:58:10,477] {logging_mixin.py:104} INFO - [2021-07-18 15:58:10,477] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:58:10,490] {logging_mixin.py:104} INFO - [2021-07-18 15:58:10,490] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:58:10,509] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2021-07-18 15:58:42,870] {scheduler_job.py:181} INFO - Started process (PID=11895) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:58:42,871] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 15:58:42,873] {logging_mixin.py:104} INFO - [2021-07-18 15:58:42,873] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:58:42,883] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 15:58:42,897] {logging_mixin.py:104} INFO - [2021-07-18 15:58:42,897] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 15:58:42,910] {logging_mixin.py:104} INFO - [2021-07-18 15:58:42,910] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 15:58:42,929] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.062 seconds
+[2021-07-18 16:23:13,557] {scheduler_job.py:181} INFO - Started process (PID=13354) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:23:13,564] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:23:13,565] {logging_mixin.py:104} INFO - [2021-07-18 16:23:13,565] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:23:13,592] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:23:13,604] {logging_mixin.py:104} INFO - [2021-07-18 16:23:13,604] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:23:13,614] {logging_mixin.py:104} INFO - [2021-07-18 16:23:13,614] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:23:13,633] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2021-07-18 16:23:45,911] {scheduler_job.py:181} INFO - Started process (PID=13621) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:23:45,913] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:23:45,914] {logging_mixin.py:104} INFO - [2021-07-18 16:23:45,914] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:23:45,925] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:23:45,937] {logging_mixin.py:104} INFO - [2021-07-18 16:23:45,937] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:23:45,945] {logging_mixin.py:104} INFO - [2021-07-18 16:23:45,945] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:23:45,965] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-07-18 16:24:17,960] {scheduler_job.py:181} INFO - Started process (PID=13676) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:24:17,961] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:24:17,962] {logging_mixin.py:104} INFO - [2021-07-18 16:24:17,961] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:24:17,971] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:24:17,985] {logging_mixin.py:104} INFO - [2021-07-18 16:24:17,985] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:24:17,996] {logging_mixin.py:104} INFO - [2021-07-18 16:24:17,996] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:24:18,014] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.056 seconds
+[2021-07-18 16:24:51,612] {scheduler_job.py:181} INFO - Started process (PID=13745) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:24:51,613] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:24:51,615] {logging_mixin.py:104} INFO - [2021-07-18 16:24:51,615] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:24:51,624] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:24:51,657] {logging_mixin.py:104} INFO - [2021-07-18 16:24:51,657] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:24:51,667] {logging_mixin.py:104} INFO - [2021-07-18 16:24:51,667] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:24:51,690] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2021-07-18 16:25:24,205] {scheduler_job.py:181} INFO - Started process (PID=13819) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:25:24,206] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:25:24,207] {logging_mixin.py:104} INFO - [2021-07-18 16:25:24,206] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:25:24,226] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:25:24,241] {logging_mixin.py:104} INFO - [2021-07-18 16:25:24,241] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:25:24,261] {logging_mixin.py:104} INFO - [2021-07-18 16:25:24,261] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:25:24,282] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2021-07-18 16:25:56,574] {scheduler_job.py:181} INFO - Started process (PID=13888) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:25:56,578] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:25:56,580] {logging_mixin.py:104} INFO - [2021-07-18 16:25:56,580] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:25:56,595] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:25:56,607] {logging_mixin.py:104} INFO - [2021-07-18 16:25:56,607] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:25:56,618] {logging_mixin.py:104} INFO - [2021-07-18 16:25:56,618] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:25:56,636] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.068 seconds
+[2021-07-18 16:26:34,067] {scheduler_job.py:181} INFO - Started process (PID=13951) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:26:34,071] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:26:34,075] {logging_mixin.py:104} INFO - [2021-07-18 16:26:34,074] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:26:34,083] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:26:34,094] {logging_mixin.py:104} INFO - [2021-07-18 16:26:34,094] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:26:34,103] {logging_mixin.py:104} INFO - [2021-07-18 16:26:34,103] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:26:34,119] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-07-18 16:27:08,917] {scheduler_job.py:181} INFO - Started process (PID=14261) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:27:08,921] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:27:08,922] {logging_mixin.py:104} INFO - [2021-07-18 16:27:08,922] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:27:08,930] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:27:08,942] {logging_mixin.py:104} INFO - [2021-07-18 16:27:08,942] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:27:08,952] {logging_mixin.py:104} INFO - [2021-07-18 16:27:08,952] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:27:08,977] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2021-07-18 16:27:43,907] {scheduler_job.py:181} INFO - Started process (PID=14366) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:27:43,907] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:27:43,908] {logging_mixin.py:104} INFO - [2021-07-18 16:27:43,908] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:27:43,916] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:27:43,931] {logging_mixin.py:104} INFO - [2021-07-18 16:27:43,930] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:27:43,941] {logging_mixin.py:104} INFO - [2021-07-18 16:27:43,941] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:27:43,961] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.057 seconds
+[2021-07-18 16:28:17,503] {scheduler_job.py:181} INFO - Started process (PID=14448) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:28:17,505] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:28:17,506] {logging_mixin.py:104} INFO - [2021-07-18 16:28:17,505] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:28:17,514] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:28:17,534] {logging_mixin.py:104} INFO - [2021-07-18 16:28:17,534] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:28:17,553] {logging_mixin.py:104} INFO - [2021-07-18 16:28:17,552] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:28:17,577] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2021-07-18 16:28:52,791] {scheduler_job.py:181} INFO - Started process (PID=14542) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:28:52,806] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:28:52,807] {logging_mixin.py:104} INFO - [2021-07-18 16:28:52,807] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:28:52,821] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:28:52,846] {logging_mixin.py:104} INFO - [2021-07-18 16:28:52,845] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:28:52,856] {logging_mixin.py:104} INFO - [2021-07-18 16:28:52,856] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:28:52,882] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.093 seconds
+[2021-07-18 16:29:25,240] {scheduler_job.py:181} INFO - Started process (PID=14620) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:29:25,241] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:29:25,241] {logging_mixin.py:104} INFO - [2021-07-18 16:29:25,241] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:29:25,256] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:29:25,270] {logging_mixin.py:104} INFO - [2021-07-18 16:29:25,269] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:29:25,279] {logging_mixin.py:104} INFO - [2021-07-18 16:29:25,279] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:29:25,307] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2021-07-18 16:30:17,957] {scheduler_job.py:181} INFO - Started process (PID=14793) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:30:17,958] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:30:17,959] {logging_mixin.py:104} INFO - [2021-07-18 16:30:17,959] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:30:17,982] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:30:18,020] {logging_mixin.py:104} INFO - [2021-07-18 16:30:18,020] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:30:18,056] {logging_mixin.py:104} INFO - [2021-07-18 16:30:18,055] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:30:18,089] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2021-07-18 16:31:49,359] {scheduler_job.py:181} INFO - Started process (PID=15001) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:31:49,360] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:31:49,361] {logging_mixin.py:104} INFO - [2021-07-18 16:31:49,361] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:31:49,378] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:31:49,404] {logging_mixin.py:104} INFO - [2021-07-18 16:31:49,404] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:31:49,417] {logging_mixin.py:104} INFO - [2021-07-18 16:31:49,416] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:31:49,447] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.098 seconds
+[2021-07-18 16:32:25,331] {scheduler_job.py:181} INFO - Started process (PID=15093) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:32:25,332] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:32:25,333] {logging_mixin.py:104} INFO - [2021-07-18 16:32:25,333] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:32:25,341] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:32:25,373] {logging_mixin.py:104} INFO - [2021-07-18 16:32:25,373] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:32:25,381] {logging_mixin.py:104} INFO - [2021-07-18 16:32:25,381] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:32:25,413] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2021-07-18 16:32:58,977] {scheduler_job.py:181} INFO - Started process (PID=15175) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:32:58,981] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:32:58,982] {logging_mixin.py:104} INFO - [2021-07-18 16:32:58,982] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:32:58,994] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:32:59,005] {logging_mixin.py:104} INFO - [2021-07-18 16:32:59,005] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:32:59,019] {logging_mixin.py:104} INFO - [2021-07-18 16:32:59,019] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:32:59,038] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-07-18 16:33:33,205] {scheduler_job.py:181} INFO - Started process (PID=15259) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:33:33,206] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:33:33,206] {logging_mixin.py:104} INFO - [2021-07-18 16:33:33,206] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:33:33,221] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:33:33,235] {logging_mixin.py:104} INFO - [2021-07-18 16:33:33,234] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:33:33,250] {logging_mixin.py:104} INFO - [2021-07-18 16:33:33,250] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:33:33,283] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2021-07-18 16:34:07,246] {scheduler_job.py:181} INFO - Started process (PID=15323) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:34:07,247] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:34:07,247] {logging_mixin.py:104} INFO - [2021-07-18 16:34:07,247] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:34:07,255] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:34:07,269] {logging_mixin.py:104} INFO - [2021-07-18 16:34:07,269] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:34:07,279] {logging_mixin.py:104} INFO - [2021-07-18 16:34:07,279] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:34:07,301] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.058 seconds
+[2021-07-18 16:34:41,129] {scheduler_job.py:181} INFO - Started process (PID=15383) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:34:41,135] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:34:41,137] {logging_mixin.py:104} INFO - [2021-07-18 16:34:41,137] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:34:41,160] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:34:41,190] {logging_mixin.py:104} INFO - [2021-07-18 16:34:41,189] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:34:41,219] {logging_mixin.py:104} INFO - [2021-07-18 16:34:41,219] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:34:41,262] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.142 seconds
+[2021-07-18 16:35:17,171] {scheduler_job.py:181} INFO - Started process (PID=15450) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:35:17,172] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:35:17,172] {logging_mixin.py:104} INFO - [2021-07-18 16:35:17,172] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:35:17,181] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:35:17,192] {logging_mixin.py:104} INFO - [2021-07-18 16:35:17,192] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:35:17,202] {logging_mixin.py:104} INFO - [2021-07-18 16:35:17,201] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:35:17,221] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.053 seconds
+[2021-07-18 16:35:49,782] {scheduler_job.py:181} INFO - Started process (PID=15508) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:35:49,784] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:35:49,785] {logging_mixin.py:104} INFO - [2021-07-18 16:35:49,785] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:35:49,795] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:35:49,809] {logging_mixin.py:104} INFO - [2021-07-18 16:35:49,809] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:35:49,820] {logging_mixin.py:104} INFO - [2021-07-18 16:35:49,820] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:35:49,842] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-07-18 16:36:20,629] {scheduler_job.py:181} INFO - Started process (PID=15561) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:36:20,634] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:36:20,635] {logging_mixin.py:104} INFO - [2021-07-18 16:36:20,635] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:36:20,648] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:36:20,662] {logging_mixin.py:104} INFO - [2021-07-18 16:36:20,662] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:36:20,672] {logging_mixin.py:104} INFO - [2021-07-18 16:36:20,672] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:36:20,694] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2021-07-18 16:36:53,419] {scheduler_job.py:181} INFO - Started process (PID=15620) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:36:53,424] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:36:53,425] {logging_mixin.py:104} INFO - [2021-07-18 16:36:53,425] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:36:53,438] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:36:53,452] {logging_mixin.py:104} INFO - [2021-07-18 16:36:53,451] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:36:53,461] {logging_mixin.py:104} INFO - [2021-07-18 16:36:53,461] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:36:53,477] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-07-18 16:37:25,960] {scheduler_job.py:181} INFO - Started process (PID=15680) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:37:25,966] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:37:25,968] {logging_mixin.py:104} INFO - [2021-07-18 16:37:25,968] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:37:25,982] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:37:25,996] {logging_mixin.py:104} INFO - [2021-07-18 16:37:25,996] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:37:26,005] {logging_mixin.py:104} INFO - [2021-07-18 16:37:26,005] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:37:26,021] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2021-07-18 16:38:00,732] {scheduler_job.py:181} INFO - Started process (PID=15760) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:38:00,733] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:38:00,734] {logging_mixin.py:104} INFO - [2021-07-18 16:38:00,733] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:38:00,742] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:38:00,753] {logging_mixin.py:104} INFO - [2021-07-18 16:38:00,753] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:38:00,761] {logging_mixin.py:104} INFO - [2021-07-18 16:38:00,761] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:38:00,781] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.052 seconds
+[2021-07-18 16:38:33,854] {scheduler_job.py:181} INFO - Started process (PID=15822) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:38:33,857] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:38:33,858] {logging_mixin.py:104} INFO - [2021-07-18 16:38:33,858] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:38:33,872] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:38:33,889] {logging_mixin.py:104} INFO - [2021-07-18 16:38:33,889] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:38:33,903] {logging_mixin.py:104} INFO - [2021-07-18 16:38:33,903] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:38:33,930] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2021-07-18 16:40:58,867] {scheduler_job.py:181} INFO - Started process (PID=15959) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:40:58,868] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:40:58,868] {logging_mixin.py:104} INFO - [2021-07-18 16:40:58,868] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:40:58,872] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:40:58,892] {logging_mixin.py:104} INFO - [2021-07-18 16:40:58,892] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:40:58,907] {logging_mixin.py:104} INFO - [2021-07-18 16:40:58,907] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:40:58,923] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2021-07-18 16:41:33,889] {scheduler_job.py:181} INFO - Started process (PID=16045) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:41:33,897] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:41:33,900] {logging_mixin.py:104} INFO - [2021-07-18 16:41:33,900] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:41:33,910] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:41:33,934] {logging_mixin.py:104} INFO - [2021-07-18 16:41:33,934] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:41:33,948] {logging_mixin.py:104} INFO - [2021-07-18 16:41:33,948] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:41:33,978] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.093 seconds
+[2021-07-18 16:42:08,082] {scheduler_job.py:181} INFO - Started process (PID=16131) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:42:08,085] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2021-07-18 16:42:08,087] {logging_mixin.py:104} INFO - [2021-07-18 16:42:08,087] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:42:08,098] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2021-07-18 16:42:08,131] {logging_mixin.py:104} INFO - [2021-07-18 16:42:08,124] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-07-18 16:42:08,141] {logging_mixin.py:104} INFO - [2021-07-18 16:42:08,141] {dag.py:2306} INFO - Setting next_dagrun for example_skip_dag to 2021-07-16 00:00:00+00:00
+[2021-07-18 16:42:08,165] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds

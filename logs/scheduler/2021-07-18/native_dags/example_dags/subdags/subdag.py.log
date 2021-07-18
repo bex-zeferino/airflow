@@ -1,0 +1,145 @@
+[2021-07-18 15:56:28,360] {scheduler_job.py:181} INFO - Started process (PID=11749) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:56:28,361] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 15:56:28,362] {logging_mixin.py:104} INFO - [2021-07-18 15:56:28,361] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:56:28,364] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:56:28,372] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2021-07-18 15:56:58,857] {scheduler_job.py:181} INFO - Started process (PID=11782) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:56:58,859] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 15:56:58,860] {logging_mixin.py:104} INFO - [2021-07-18 15:56:58,860] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:56:58,862] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:56:58,868] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-07-18 15:57:31,608] {scheduler_job.py:181} INFO - Started process (PID=11821) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:57:31,609] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 15:57:31,609] {logging_mixin.py:104} INFO - [2021-07-18 15:57:31,609] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:57:31,612] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:57:31,618] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2021-07-18 15:58:05,595] {scheduler_job.py:181} INFO - Started process (PID=11855) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:58:05,596] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 15:58:05,597] {logging_mixin.py:104} INFO - [2021-07-18 15:58:05,597] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:58:05,603] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:58:05,611] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-07-18 15:58:39,133] {scheduler_job.py:181} INFO - Started process (PID=11891) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:58:39,134] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 15:58:39,135] {logging_mixin.py:104} INFO - [2021-07-18 15:58:39,135] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:58:39,137] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 15:58:39,148] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-07-18 16:23:39,913] {scheduler_job.py:181} INFO - Started process (PID=13611) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:23:39,916] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:23:39,916] {logging_mixin.py:104} INFO - [2021-07-18 16:23:39,916] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:23:39,918] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:23:39,925] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2021-07-18 16:24:11,521] {scheduler_job.py:181} INFO - Started process (PID=13663) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:24:11,522] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:24:11,523] {logging_mixin.py:104} INFO - [2021-07-18 16:24:11,523] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:24:11,529] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:24:11,537] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-07-18 16:24:45,317] {scheduler_job.py:181} INFO - Started process (PID=13733) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:24:45,320] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:24:45,320] {logging_mixin.py:104} INFO - [2021-07-18 16:24:45,320] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:24:45,323] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:24:45,331] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2021-07-18 16:25:20,397] {scheduler_job.py:181} INFO - Started process (PID=13809) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:25:20,399] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:25:20,404] {logging_mixin.py:104} INFO - [2021-07-18 16:25:20,399] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:25:20,409] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:25:20,416] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-07-18 16:25:52,801] {scheduler_job.py:181} INFO - Started process (PID=13882) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:25:52,802] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:25:52,803] {logging_mixin.py:104} INFO - [2021-07-18 16:25:52,803] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:25:52,805] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:25:52,817] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
+[2021-07-18 16:27:01,452] {scheduler_job.py:181} INFO - Started process (PID=14242) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:27:01,453] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:27:01,455] {logging_mixin.py:104} INFO - [2021-07-18 16:27:01,455] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:27:01,458] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:27:01,465] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.016 seconds
+[2021-07-18 16:27:38,631] {scheduler_job.py:181} INFO - Started process (PID=14354) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:27:38,638] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:27:38,639] {logging_mixin.py:104} INFO - [2021-07-18 16:27:38,639] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:27:38,644] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:27:38,658] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2021-07-18 16:28:14,720] {scheduler_job.py:181} INFO - Started process (PID=14440) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:28:14,723] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:28:14,724] {logging_mixin.py:104} INFO - [2021-07-18 16:28:14,724] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:28:14,731] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:28:14,745] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2021-07-18 16:28:49,461] {scheduler_job.py:181} INFO - Started process (PID=14535) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:28:49,463] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:28:49,464] {logging_mixin.py:104} INFO - [2021-07-18 16:28:49,464] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:28:49,472] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:28:49,483] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.030 seconds
+[2021-07-18 16:29:31,012] {scheduler_job.py:181} INFO - Started process (PID=14634) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:29:31,016] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:29:31,017] {logging_mixin.py:104} INFO - [2021-07-18 16:29:31,017] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:29:31,021] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:29:31,029] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-07-18 16:30:28,897] {scheduler_job.py:181} INFO - Started process (PID=14816) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:30:28,902] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:30:28,903] {logging_mixin.py:104} INFO - [2021-07-18 16:30:28,903] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:30:28,908] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:30:28,918] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2021-07-18 16:32:13,794] {scheduler_job.py:181} INFO - Started process (PID=15061) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:32:13,796] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:32:13,796] {logging_mixin.py:104} INFO - [2021-07-18 16:32:13,796] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:32:13,800] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:32:13,806] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2021-07-18 16:32:48,908] {scheduler_job.py:181} INFO - Started process (PID=15149) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:32:48,909] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:32:48,910] {logging_mixin.py:104} INFO - [2021-07-18 16:32:48,910] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:32:48,913] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:32:48,925] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.019 seconds
+[2021-07-18 16:33:29,592] {scheduler_job.py:181} INFO - Started process (PID=15251) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:33:29,593] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:33:29,593] {logging_mixin.py:104} INFO - [2021-07-18 16:33:29,593] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:33:29,596] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:33:29,601] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2021-07-18 16:34:04,750] {scheduler_job.py:181} INFO - Started process (PID=15319) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:34:04,751] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:34:04,753] {logging_mixin.py:104} INFO - [2021-07-18 16:34:04,751] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:34:04,755] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:34:04,761] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2021-07-18 16:34:39,975] {scheduler_job.py:181} INFO - Started process (PID=15382) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:34:39,980] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:34:39,983] {logging_mixin.py:104} INFO - [2021-07-18 16:34:39,982] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:34:39,998] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:34:40,010] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.040 seconds
+[2021-07-18 16:35:16,040] {scheduler_job.py:181} INFO - Started process (PID=15449) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:35:16,041] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:35:16,041] {logging_mixin.py:104} INFO - [2021-07-18 16:35:16,041] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:35:16,044] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:35:16,050] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2021-07-18 16:35:54,663] {scheduler_job.py:181} INFO - Started process (PID=15515) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:35:54,665] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:35:54,666] {logging_mixin.py:104} INFO - [2021-07-18 16:35:54,666] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:35:54,674] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:35:54,685] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.025 seconds
+[2021-07-18 16:36:28,829] {scheduler_job.py:181} INFO - Started process (PID=15575) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:36:28,832] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:36:28,834] {logging_mixin.py:104} INFO - [2021-07-18 16:36:28,833] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:36:28,837] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:36:28,846] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-07-18 16:37:05,698] {scheduler_job.py:181} INFO - Started process (PID=15641) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:37:05,699] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:37:05,700] {logging_mixin.py:104} INFO - [2021-07-18 16:37:05,700] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:37:05,702] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:37:05,714] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2021-07-18 16:37:41,011] {scheduler_job.py:181} INFO - Started process (PID=15708) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:37:41,012] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:37:41,013] {logging_mixin.py:104} INFO - [2021-07-18 16:37:41,013] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:37:41,017] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:37:41,029] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2021-07-18 16:38:23,636] {scheduler_job.py:181} INFO - Started process (PID=15802) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:38:23,638] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:38:23,640] {logging_mixin.py:104} INFO - [2021-07-18 16:38:23,640] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:38:23,644] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:38:23,652] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2021-07-18 16:41:27,205] {scheduler_job.py:181} INFO - Started process (PID=16029) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:41:27,206] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:41:27,207] {logging_mixin.py:104} INFO - [2021-07-18 16:41:27,206] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:41:27,209] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:41:27,225] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.024 seconds
+[2021-07-18 16:42:02,315] {scheduler_job.py:181} INFO - Started process (PID=16118) to work on /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:42:02,317] {scheduler_job.py:632} INFO - Processing file /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2021-07-18 16:42:02,318] {logging_mixin.py:104} INFO - [2021-07-18 16:42:02,317] {dagbag.py:496} INFO - Filling up the DagBag from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:42:02,323] {scheduler_job.py:644} WARNING - No viable dags retrieved from /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py
+[2021-07-18 16:42:02,331] {scheduler_job.py:189} INFO - Processing /home/julio/anaconda3/lib/python3.8/site-packages/airflow/example_dags/subdags/subdag.py took 0.018 seconds
